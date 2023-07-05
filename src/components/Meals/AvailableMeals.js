@@ -27,6 +27,12 @@ const DUMMY_MEALS = [
     description: "Healthy...and green...",
     price: 18.99,
   },
+  {
+    id: "m5",
+    name: "Pierogi",
+    description: "One of the most popular dish in Poland!",
+    price: 9.99,
+  },
 ];
 
 const AvailableMeals = () => {
