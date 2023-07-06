@@ -33,6 +33,13 @@ const DUMMY_MEALS = [
     description: "One of the most popular dish in Poland!",
     price: 9.99,
   },
+  {
+    id: "m6",
+    name: "Ramen",
+    description:
+      "Delicious soup with a lot of noodles and three topping of your choosing",
+    price: 5.99,
+  },
 ];
 
 const AvailableMeals = () => {
