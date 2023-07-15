@@ -82,7 +82,7 @@ const Cart = (props) => {
     </React.Fragment>
   );
 
-  const isSubmittingModalContent = <p>Sending order data...</p>;
+  const isSubmittingModalContent = <p>Your order is beeing processed..</p>;
 
   const didSubmitModalContetn = (
     <React.Fragment>
