@@ -1,6 +1,6 @@
 # ReactMeals food order app!
 
-This project is a fake food order application which helped me to learn and understand ReactApp, especially the concept of the cart in the shop and also manipulations of the items' numbers inside. It is also connected with Firebase, so the available meals are fetching from the server.
+This project is a fake food order application which helped me to learn and understand ReactApp, especially the concept of the cart in the shop and also manipulations of the items' numbers inside. It is also connected with Firebase, so the available meals data are fetching from the server.When you "order" your food, the important info required to doing a "delivery" will also be send to a Firebase server.
 
 ## What you can do here?
 
